@@ -1,0 +1,32 @@
+  .heading
+  {
+    font-size: 23px !important;
+    width: 100% !important;
+    margin: 0px !important;
+    box-shadow:5px 5px 5px grey !important;
+    background-color: royalblue;
+  }
+  .heading_div
+  {
+    float: none  !important;
+    background: white !important; 
+    border-radius: 20px !important; 
+    color: black !important;
+    box-shadow:5px 5px 5px grey !important;
+    padding: 10px !important;
+  }
+  .heading_div2
+  {
+    font-size: 18px !important;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey !important;
+    font-size: 20px !important;
+  }
+  .copy_right_footer{
+    width: 100% !important;
+    background-color: gray !important;
+    color: whitesmoke;
+  }
+ 
